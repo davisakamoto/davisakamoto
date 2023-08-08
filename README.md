@@ -15,8 +15,8 @@
 
 ### Projects
 
-[![](https://img.shields.io/badge/-🎮%20PerdidosNoICEX-000)](https://github.com/adamalston/v2)
+[![](https://img.shields.io/badge/-🎮%20PerdidosNoICEX-000)](https://github.com/davisakamoto/PerdidosNoICEX)
 [![](https://img.shields.io/badge/-➗%20Calculadora-000)](https://github.com/adamalston/COVID-19-Dashboard)
 [![](https://img.shields.io/badge/-💠%20Graham-000)](https://github.com/adamalston/Summarizer)
 [![](https://img.shields.io/badge/-📂%20Compactor-000)](https://github.com/adamalston/overwatch)
-[![](https://img.shields.io/badge/-🌍%20PokémonBrasil-000)](https://github.com/adamalston/PokemonGo-Map)
+[![](https://img.shields.io/badge/-🌍%20PokémonBrasil-000)](https://www.instagram.com/pokemonbrasil_fangame/)
