@@ -10,13 +10,14 @@
 
 ### Technologies
 
+![Git](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 
 ### Projects
 
 [![](https://img.shields.io/badge/-🎮%20PerdidosNoICEX-000)](https://github.com/davisakamoto/PerdidosNoICEX)
-[![](https://img.shields.io/badge/-➗%20Calculadora-000)](https://github.com/adamalston/COVID-19-Dashboard)
+[![](https://img.shields.io/badge/-➗%20ExpSolver-000)](https://github.com/adamalston/COVID-19-Dashboard)
 [![](https://img.shields.io/badge/-💠%20Graham-000)](https://github.com/adamalston/Summarizer)
 [![](https://img.shields.io/badge/-📂%20Compactor-000)](https://github.com/adamalston/overwatch)
 [![](https://img.shields.io/badge/-🌍%20PokémonBrasil-000)](https://www.instagram.com/pokemonbrasil_fangame/)
