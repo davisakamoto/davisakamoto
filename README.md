@@ -10,9 +10,13 @@
 
 ### Technologies
 
-![Git](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=orange)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+<!-- ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
+![React](https://img.shields.io/badge/-React-000?&logo=React) -->
+
 
 ### Projects
 
